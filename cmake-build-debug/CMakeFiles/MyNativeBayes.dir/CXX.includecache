@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/BayesClassifier.cpp
+BayesClassifier.h
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/BayesClassifier.h
+cmath
+-
+map
+-
+vector
+-
+
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/BayesClassifier.h
+Matrix.h
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/Matrix.h
+
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/Matrix.h
+
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/main.cpp
+bits/stdc++.h
+-
+Windows.h
+-
+BayesClassifier.h
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/BayesClassifier.h
+read.cpp
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/read.cpp
+
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/read.cpp
+bits/stdc++.h
+-
+Windows.h
+-
+BayesClassifier.h
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/BayesClassifier.h
+

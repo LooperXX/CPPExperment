@@ -1,0 +1,3 @@
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/cmake-build-debug/CMakeFiles/MyNativeBayes.dir
+C:/Users/LooperXX/CLionProjects/MyNativeBayes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
